@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Project Part 1 Report](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/edit/main/part1.html) 
+[Project Part 1 Report](https://bu-ie-423.github.io/fall-23-aselimgul/part1.html) 
 
 You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
