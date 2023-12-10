@@ -10,5 +10,5 @@ To download the ipynb file, [click](https://bu-ie-423.github.io/fall-23-aselimgu
 
 [Project Part 2 Report](https://bu-ie-423.github.io/fall-23-aselimgul/Part2/project2_report.html)
 
-ipynb file for [task 1](https://bu-ie-423.github.io/fall-23-aselimgul/Part2/task1.ipynb)
-rmd file for [task 2](https://bu-ie-423.github.io/fall-23-aselimgul/Part2/Task2.Rmd)
+ipynb file for task 1: [task1.ipynb](https://bu-ie-423.github.io/fall-23-aselimgul/Part2/task1.ipynb)
+rmd file for task 2: [task2.Rmd](https://bu-ie-423.github.io/fall-23-aselimgul/Part2/Task2.Rmd)
